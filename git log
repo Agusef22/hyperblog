@@ -1,0 +1,82 @@
+[33mcommit 0ba1d468891709c34e230cc15a2865ebca04e8e3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Agustin Fernandez <agusef22@gmail.com>
+Date:   Tue Aug 10 23:29:07 2021 -0300
+
+    Commit al master del blogpost en su version mas reciente
+
+ CSS/estilos.css | 16 [32m+++++++++++++++[m[31m-[m
+ blogpost.html   |  8 [32m++++++[m[31m--[m
+ 2 files changed, 21 insertions(+), 3 deletions(-)
+
+[33mcommit 4e83dc207dce0be6ce953aa0f86cb1a05db81b7f[m
+Author: Agustin Fernandez <agusef22@gmail.com>
+Date:   Tue Aug 10 19:53:09 2021 -0300
+
+    Chota
+
+ Historia.txt | 4 [32m+[m[31m---[m
+ 1 file changed, 1 insertion(+), 3 deletions(-)
+
+[33mcommit cb491be580ac72a9fd708c01184a7aeaf0311b47[m
+Author: Agustin Fernandez <agusef22@gmail.com>
+Date:   Tue Aug 10 19:47:55 2021 -0300
+
+    Buenas
+
+ Historia.txt | 4 [32m+++[m[31m-[m
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+[33mcommit bc93808d8f6bfe4f1eeae89e2b54fbbd74511182[m
+Author: Agustin Fernandez <agusef22@gmail.com>
+Date:   Tue Aug 10 19:38:56 2021 -0300
+
+    Reemplazo de una version por otra de la historia
+
+ Historia.txt | 5 [32m++[m[31m---[m
+ 1 file changed, 2 insertions(+), 3 deletions(-)
+
+[33mcommit 31406755323bb7ad90655d33494cd1147eea81cc[m
+Author: Agustin Fernandez <agusef22@gmail.com>
+Date:   Tue Aug 10 19:33:33 2021 -0300
+
+    Cambio de maestria
+
+ Historia.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit dcc064638fc010fd655abee60c17e84f9f7f6d93[m
+Author: Agustin Fernandez <agusef22@gmail.com>
+Date:   Tue Aug 10 19:32:44 2021 -0300
+
+    Cambio de vida
+
+ Historia.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit a0f58fbc28859f90ffda630e2ca07f51f6dc744c[m
+Author: Agustin Fernandez <agusef22@gmail.com>
+Date:   Tue Aug 10 19:30:54 2021 -0300
+
+    Arranco mi proyecto real con HTML y CSS
+
+ CSS/estilos.css |  5 [32m+++++[m
+ blogpost.html   | 10 [32m++++++++++[m
+ 2 files changed, 15 insertions(+)
+
+[33mcommit 65e61c10742cad6fe1ce58afea3b8baa5054f0a6[m
+Author: Agustin Fernandez <agusef22@gmail.com>
+Date:   Tue Aug 10 18:39:07 2021 -0300
+
+    Cambios en el archivo para reflejar la edad correcta
+
+ Historia.txt | 3 [32m++[m[31m-[m
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+[33mcommit a091f4ce4afb7f783f8a2d6db4370c158d5a3b67[m
+Author: Agustin Fernandez <agusef22@gmail.com>
+Date:   Tue Aug 10 18:33:37 2021 -0300
+
+    Este es el primer commit de este archivo
+
+ Historia.txt | 6 [32m++++++[m
+ 1 file changed, 6 insertions(+)
